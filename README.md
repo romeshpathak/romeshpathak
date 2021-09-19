@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋,Romesh Pathak</h1>
-<h3 align="center">A passionate Application developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muraribabupatel&label=Profile%20views&color=0e75b6&style=flat" alt="muraribabupatel" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/muraribabu3" target="blank"><img src="https://img.shields.io/twitter/follow/muraribabu3?logo=twitter&style=for-the-badge" alt="muraribabu3" /></a> </p>
 
-- 🔭 I’m currently working on *Java*
+- 🔭 I’m currently working on *FrontEnd Developer*
 
 - 🌱 I’m currently learning JS,React,PHP.*
 
